@@ -1,4 +1,4 @@
-# IMPORTANT: This GitHub site is deprecated and the WCF-WinForms sample are moved/consolidated and evolved in a single/consolidated  GitHub repo (eShopModernizing) here: 
+# IMPORTANT: This GitHub site is deprecated and this N-Tier sample modernized with Windows containers (WCF-WinForms sample) has been moved and it is being evolved in a single/consolidated GitHub repo (eShopModernizing) here: 
 
 ## [https://github.com/dotnet-architecture/eShopModernizing](https://github.com/dotnet-architecture/eShopModernizing)
 
